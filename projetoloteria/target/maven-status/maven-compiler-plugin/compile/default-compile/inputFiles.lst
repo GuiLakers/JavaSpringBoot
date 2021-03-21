@@ -1,0 +1,14 @@
+C:\Users\GuiLakers08\Downloads\projetoloteria\src\main\java\com\loteria\projeto\api\model\Pessoa.java
+C:\Users\GuiLakers08\Downloads\projetoloteria\src\main\java\com\loteria\projeto\api\service\PessoaService.java
+C:\Users\GuiLakers08\Downloads\projetoloteria\src\main\java\com\loteria\projeto\api\service\util\Primo.java
+C:\Users\GuiLakers08\Downloads\projetoloteria\src\main\java\com\loteria\projeto\api\controller\NumeroController.java
+C:\Users\GuiLakers08\Downloads\projetoloteria\src\main\java\com\loteria\projeto\api\service\util\GeradorDeNumeros.java
+C:\Users\GuiLakers08\Downloads\projetoloteria\src\main\java\com\loteria\projeto\api\controller\PessoaController.java
+C:\Users\GuiLakers08\Downloads\projetoloteria\src\main\java\com\loteria\projeto\api\service\exception\NumeroExistenteException.java
+C:\Users\GuiLakers08\Downloads\projetoloteria\src\main\java\com\loteria\projeto\api\model\Numero.java
+C:\Users\GuiLakers08\Downloads\projetoloteria\src\main\java\com\loteria\projeto\api\ProjetoloteriaApplication.java
+C:\Users\GuiLakers08\Downloads\projetoloteria\src\main\java\com\loteria\projeto\api\repository\PessoaRepository.java
+C:\Users\GuiLakers08\Downloads\projetoloteria\src\main\java\com\loteria\projeto\api\service\exception\PessoaInexistenteException.java
+C:\Users\GuiLakers08\Downloads\projetoloteria\src\main\java\com\loteria\projeto\api\repository\NumeroRepository.java
+C:\Users\GuiLakers08\Downloads\projetoloteria\src\main\java\com\loteria\projeto\api\service\exception\EmailJaExistenteException.java
+C:\Users\GuiLakers08\Downloads\projetoloteria\src\main\java\com\loteria\projeto\api\service\NumeroService.java

@@ -1,0 +1,14 @@
+com\loteria\projeto\api\model\Pessoa.class
+com\loteria\projeto\api\service\util\Primo.class
+com\loteria\projeto\api\controller\PessoaController.class
+com\loteria\projeto\api\repository\PessoaRepository.class
+com\loteria\projeto\api\service\PessoaService.class
+com\loteria\projeto\api\ProjetoloteriaApplication.class
+com\loteria\projeto\api\service\exception\EmailJaExistenteException.class
+com\loteria\projeto\api\service\exception\NumeroExistenteException.class
+com\loteria\projeto\api\service\util\GeradorDeNumeros.class
+com\loteria\projeto\api\controller\NumeroController.class
+com\loteria\projeto\api\repository\NumeroRepository.class
+com\loteria\projeto\api\service\NumeroService.class
+com\loteria\projeto\api\model\Numero.class
+com\loteria\projeto\api\service\exception\PessoaInexistenteException.class
