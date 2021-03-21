@@ -1,0 +1,4 @@
+com\apicrudpostgres\produto\ProdutoApplication.class
+com\apicrudpostgres\produto\controller\ProdutoController.class
+com\apicrudpostgres\produto\model\Produto.class
+com\apicrudpostgres\produto\repository\ProdutoRepository.class
