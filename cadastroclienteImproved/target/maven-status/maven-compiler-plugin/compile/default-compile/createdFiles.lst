@@ -1,0 +1,14 @@
+com\cadastrocliente\CadastroclienteimprovedApplication.class
+com\cadastrocliente\exceptions\ErrorMessage400.class
+com\cadastrocliente\exceptions\ErrorValidationHandler400.class
+com\cadastrocliente\models\Sexo.class
+com\cadastrocliente\services\ClienteService.class
+com\cadastrocliente\controllers\ClienteController.class
+com\cadastrocliente\models\Cidade.class
+com\cadastrocliente\repositories\CidadeRepository.class
+com\cadastrocliente\repositories\ClienteRepository.class
+com\cadastrocliente\models\Cliente.class
+com\cadastrocliente\services\CidadeService.class
+com\cadastrocliente\controllers\CidadeController.class
+com\cadastrocliente\exceptions\ErrorMessage404.class
+com\cadastrocliente\exceptions\ErrorValidationHandler404.class
