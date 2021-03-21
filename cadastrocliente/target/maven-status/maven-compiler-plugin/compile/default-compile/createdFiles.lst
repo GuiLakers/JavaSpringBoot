@@ -1,0 +1,10 @@
+com\cadastrocliente\models\Sexo.class
+com\cadastrocliente\services\ClienteService.class
+com\cadastrocliente\controllers\ClienteController.class
+com\cadastrocliente\models\Cidade.class
+com\cadastrocliente\repositories\CidadeRepository.class
+com\cadastrocliente\repositories\ClienteRepository.class
+com\cadastrocliente\models\Cliente.class
+com\cadastrocliente\services\CidadeService.class
+com\cadastrocliente\controllers\CidadeController.class
+com\cadastrocliente\CadastroclienteApplication.class
